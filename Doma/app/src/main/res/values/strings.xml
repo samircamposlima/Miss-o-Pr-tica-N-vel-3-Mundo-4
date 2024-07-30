@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doma</string>
+    <string name="open_bluetooth_settings">Open Bluetooth Settings</string>
+    <string name="check_audio_outputs">Check Audio Outputs</string>
+</resources>
